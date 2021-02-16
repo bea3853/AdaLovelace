@@ -1,7 +1,8 @@
 #  Sobre o projeto
 
 
-Site que conta a história de Ada Lovelace, projeto realizado no curso Programaria. 
+Site que conta a história de Ada Lovelace.
+O foi realizado realizado no curso Programaria. 
 
   
 #  Tecnologias utilizadas
@@ -11,10 +12,6 @@ Site que conta a história de Ada Lovelace, projeto realizado no curso Programar
 
 #  Autor
 
-  
-
 Beatriz Alves
-
-  
 
 https://www.linkedin.com/in/beatriz2071/
