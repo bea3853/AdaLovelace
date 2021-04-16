@@ -2,7 +2,7 @@
 
 
 Site que conta a história de Ada Lovelace.
-O foi realizado realizado no curso Programaria. 
+O projeto foi realizado no curso Programaria. 
 
   
 #  Tecnologias utilizadas
